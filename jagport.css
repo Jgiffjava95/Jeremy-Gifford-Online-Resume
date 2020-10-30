@@ -1,0 +1,64 @@
+@CHARSET "ISO-8859-1";
+
+.greyBG {
+	background: #A5A5A5;
+}
+
+.redishBG {
+	background: #DD3951;
+}
+
+.img {
+	width: 100%;
+	height: auto;
+	max-width: 250px;
+}
+
+iframe {
+	width: 100%;
+	height: 350px;
+}
+
+body {
+	background: #;
+}
+
+a {
+	color: white;
+}
+
+h1, h3, div, b, li, p {
+	font-family: "Montserrat", sans-serif;
+}
+
+.radiusAndBorderForCards {
+	border-style: solid;
+	border-top-left-radius: 20px;	
+	border-bottom-right-radius: 20px;
+	border-top-right-radius: 0;	
+	border-bottom-left-radius: 0;
+	border-bottom-width: 2px;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-right-width: 1px;
+}
+
+.card-header:first-child {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 0;
+}
+
+.applyBottomBorder {
+	border-style: solid;
+	border-bottom-width: 1px;
+	border-top-width: 0px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+}
+
+.edImg {
+	width: 100%;
+	height: auto;
+	max-width: 150px;
+}
+
