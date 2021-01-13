@@ -8,16 +8,19 @@
 	background: #DD3951;
 }
 
-.img {
+.jeremyImg {
 	width: 100%;
 	height: auto;
 	max-width: 250px;
 }
 
-iframe {
+.cardImage {
 	width: 100%;
-	height: 350px;
+	height: auto;
+	max-width: 1000px;
 }
+
+
 
 body {
 	background: #;
