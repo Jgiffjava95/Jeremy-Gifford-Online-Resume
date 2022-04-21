@@ -1,33 +1,32 @@
 @CHARSET "ISO-8859-1";
 
-.greyBG {
+.grey-bg {
 	background: #A5A5A5;
 }
 
-.redishBG {
+.redish-bG {
 	background: #DD3951;
 }
 
-.jeremyImg {
+.jeremy-img {
 	width: 100%;
 	height: auto;
 	max-width: 250px;
 }
 
-.cardImage {
+.card-image {
 	width: 100%;
 	height: auto;
 	max-width: 1000px;
 }
 
-
-
-body {
-	background: #;
-}
-
 a {
 	color: white;
+}
+
+a:hover {
+	color: lightgray;
+	text-decoration: none;
 }
 
 h1, h3, div, b, li, p {
@@ -51,7 +50,7 @@ h1, h3, div, b, li, p {
   border-top-right-radius: 0;
 }
 
-.applyBottomBorder {
+.bottom-border {
 	border-style: solid;
 	border-bottom-width: 1px;
 	border-top-width: 0px;
@@ -59,7 +58,7 @@ h1, h3, div, b, li, p {
 	border-right-width: 0px;
 }
 
-.edImg {
+.ed-img {
 	width: 100%;
 	height: auto;
 	max-width: 150px;
